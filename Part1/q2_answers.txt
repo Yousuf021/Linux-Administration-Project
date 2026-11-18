@@ -1,0 +1,11 @@
+g) su - edges
+
+h) ls -laR ~/my_proj
+
+i) sudo chown -R edges:ASU ~/my_proj
+
+j) ls -laR ~/my_proj
+
+k) grep -rn "file" ~/my_proj
+
+l) find ~/my_proj -type f -name "*.c" -delete

@@ -1,0 +1,11 @@
+m) 2 Methods to make script global:
+
+Copy to PATH: sudo cp userdef.sh /usr/local/bin/userdef
+
+Add dir to PATH: export PATH=$PATH:/path/to/script
+
+n) Permanent change:
+Add export PATH=$PATH:/path/to/script into ~/.bashrc.
+
+o) Apply changes immediately:
+Run source ~/.bashrc

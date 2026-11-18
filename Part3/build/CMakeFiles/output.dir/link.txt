@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/output.dir/Application/app.c.o -o out/output  -Wl,-rpath,/home/yousufabbas021/downloads/project/Project/build/out/libs out/libs/libcaesar.a out/libs/libxor.so 
